@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "6ee6",
+      "text": "gexam",
+      "completed": true
+    },
+    {
+      "id": "2931",
+      "text": "narek",
+      "completed": true
+    },
+    {
+      "id": "e173",
+      "text": "vahan",
+      "completed": false
+    },
+    {
+      "id": "4636",
+      "text": "serob",
+      "completed": false
+    },
+    {
+      "id": "1d36",
+      "text": "Mher",
+      "completed": false
+    },
+    {
+      "id": "34e5",
+      "text": "asfasfasf",
+      "completed": false
+    }
+  ]
+}
